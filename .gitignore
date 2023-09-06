@@ -1,0 +1,4 @@
+# Ignore Dirs
+**/oem_kernel
+**/clo_kernel
+.vscode
